@@ -1,0 +1,3 @@
+[submodule "test_package"]
+	path = test_package
+	url = git@github.com:misomedia/PythonTestPackage.git
